@@ -48,8 +48,7 @@ Lalu isi dan simpan
 ## ~~7. Jalankan skrip~~
 
 ~~python main.py~~
-```
-```
+
 ## 8. Shortcut (jalan pintas)
 ```
 chmod +x dor.sh
