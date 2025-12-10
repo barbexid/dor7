@@ -49,7 +49,7 @@ Lalu isi dan simpan
 
 ~~python main.py~~
 ```
-
+```
 ## 8. Shortcut (jalan pintas)
 ```
 chmod +x dor.sh
