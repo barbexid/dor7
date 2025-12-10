@@ -44,12 +44,13 @@ Hubungi saya di  [TELEGRAM](https://t.me/barbex_id)
 nano .env
 ```
 Lalu isi dan simpan
-~~## 7. Jalankan skrip~~
-```
+
+## ~~7. Jalankan skrip~~
+
 ~~python main.py~~
 ```
 
-##  Shortcut (jalan pintas)
+## 8. Shortcut (jalan pintas)
 ```
 chmod +x dor.sh
 ```
